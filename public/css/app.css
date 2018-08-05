@@ -8421,7 +8421,11 @@ p {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /* footer */
+=======
+/*  footer */
+>>>>>>> filling-layout-style
 
 footer {
   margin-top: 45px;
@@ -8445,11 +8449,16 @@ footer small {
 footer ul {
   float: right;
   list-style: none;
+<<<<<<< HEAD
 }
 
 footer ul li {
   float: left;
   margin-left: 15px;
+=======
+  li-float: left;
+  li-margin-left: 5px;
+>>>>>>> filling-layout-style
 }
 
 footer img.brand-icon {
