@@ -8,15 +8,7 @@
     </small>
     <nav>
       <ul>
-<<<<<<< HEAD
-
-        <li><a href="{{route('about')}}">关于</a></li>
-
-      
-
-=======
-        <li><a href="/about">关于</a></li>
->>>>>>> modeling-users
+        <li><a href="{{ route('about') }}">关于</a></li>
       </ul>
     </nav>
   </footer>
