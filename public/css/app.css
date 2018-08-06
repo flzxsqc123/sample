@@ -8422,10 +8422,14 @@ p {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* footer */
 =======
 /*  footer */
 >>>>>>> filling-layout-style
+=======
+/* footer */
+>>>>>>> modeling-users
 
 footer {
   margin-top: 45px;
@@ -8450,15 +8454,21 @@ footer ul {
   float: right;
   list-style: none;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> modeling-users
 }
 
 footer ul li {
   float: left;
   margin-left: 15px;
+<<<<<<< HEAD
 =======
   li-float: left;
   li-margin-left: 5px;
 >>>>>>> filling-layout-style
+=======
+>>>>>>> modeling-users
 }
 
 footer img.brand-icon {

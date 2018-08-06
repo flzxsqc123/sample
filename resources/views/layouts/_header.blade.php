@@ -5,9 +5,15 @@
       <nav>
         <ul class="nav navbar-nav navbar-right">
 
+<<<<<<< HEAD
           <li><a href="{{route('help')}}">帮助</a></li>
 
           <li><a href="{{ route('help')}}">帮助</a></li>
+=======
+          <li><a href="{{ route('help') }}">帮助</a></li>
+
+        
+>>>>>>> modeling-users
 
           <li><a href="#">登录</a></li>
         </ul>
